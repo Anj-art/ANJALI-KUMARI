@@ -1,2 +1,3 @@
 # ANJALI-KUMARI
 THIS IS MY FIRST GIT REPOSITORY
+author = anjali kumari
